@@ -32,6 +32,7 @@ public class AgregarPersona extends AppCompatActivity {
         adapter =  new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, opc);
         cmbSexo.setAdapter(adapter);
 
+        fotos = new ArrayList<Integer>();
         fotos.add(R.drawable.images);
         fotos.add(R.drawable.images2);
         fotos.add(R.drawable.images3);
