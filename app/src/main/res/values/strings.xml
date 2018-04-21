@@ -9,6 +9,7 @@
     <string name="Borrar">Borrar</string>
     <string name="masculino">masculino</string>
     <string name="femenino">Femenino</string>
+    <string name="mensajeGuardado">Persona Guardada Exitosamente</string>
     <string-array name="sexo">
         <item>@string/masculino</item>
         <item>@string/femenino</item>
